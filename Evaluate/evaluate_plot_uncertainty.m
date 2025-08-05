@@ -4,13 +4,13 @@
 clear
 clc
 
-% result_methods_dir = {'../Code/Code_Diffusion/scripts/test_results_DE_2D_t200_path20_nonavg_cascade3/'
+% result_methods_dir = {'./test_results_DE_2D_t200_path20_nonavg_cascade3/'
 %                      };
 
-result_methods_dir = {'../Code/Code_Diffusion/scripts/test_results_MRI_2D_t200_path20_nonavg_cascade3/'
+result_methods_dir = {'./test_results_MRI_2D_t200_path20_nonavg_cascade3/'
                      };
 
-% result_methods_dir = {'../Code/Code_Diffusion/scripts/test_results_SVCT_2D_t200_path20_nonavg_cascade3/'
+% result_methods_dir = {'./test_results_SVCT_2D_t200_path20_nonavg_cascade3/'
 %                      };
 
 %% Evaluate Results
